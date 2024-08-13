@@ -1,4 +1,4 @@
-# Debounce And Throttle Typescript
+# Debounce and Throttle - Typescript
 
 ## Throttling
   Throttling is a technique used to control the rate at which a function is executed, 
